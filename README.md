@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://media.giphy.com/media/TXrq6bFwhhz8g8RtG0/giphy.gif"  width="25%" height="250" alt="Lab gif"/>
+ <img src="https://media.giphy.com/media/TXrq6bFwhhz8g8RtG0/giphy.gif"  width=50%" height="50" alt="Lab gif"/>
 </p>
 
 # Object Oriented Programming lab
