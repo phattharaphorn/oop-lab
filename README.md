@@ -9,7 +9,7 @@ Object Oriented Programming (01076105), Computer Engineering 60 at KMITL.
 
   > **Note:** This collection of various labs about object-oriented programming is implemented in Java for practical purposes.
 
-## List all the lab
+## List all the lab - assignment 
 - [Lab 1](lab-1)
 - [Lab 2](lab-2)
 - [Lab 3](lab-3)
