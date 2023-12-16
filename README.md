@@ -12,7 +12,7 @@ Object Oriented Programming (01076105), Computer Engineering 60 at KMITL.
 ## List all the lab - assignment 
 - [Lab 1](lab-1)
 - [Lab 2](lab-2)
-- [Lab 3](lab-3)
+- [Lab 3](lab-3) 
 - [Lab 4](lab-4)
 - [Lab 5](lab-5)
 - [Lab 6](lab-6)
