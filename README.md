@@ -5,9 +5,7 @@
 # Object Oriented Programming - Lab
 Object Oriented Programming (01076105), Computer Engineering 60 at KMITL.
 
-- This repository is a collection of the design and implementation of software in **Java** using **object-oriented** **programming** **techniques** that include objects, class, polymorphism, exception handling, inheritance, and interfaces. Additional programming topics include graphical user interfaces and UML modeling of small systems.
-
-  > **Note:** This collection of various labs about object-oriented programming is implemented in Java for practical purposes.
+- This repository is a collection developed in **Java** using **object-oriented** **programming** **techniques** that include objects, class, polymorphism, exception handling, inheritance, and interfaces. 
 
 ## List all the lab - assignment 
 - [Lab 1](lab-1)
